@@ -41,4 +41,8 @@ https://youtube.com/playlist?list=PLBlnK6fEyqRhoF3cPp0mgOZPuXeu84nAd&si=5Ayirbef
 
 also i dont like KaTeX (sadface)
 
+Also this is what it was supposed to look like i dont quite understand why it didnt show up in github the same way it shows up in my previewer... i literally downloaded the "github previewer"
+
+![how it was supposed to look](image.png)
+
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
